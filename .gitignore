@@ -1,0 +1,10 @@
+# Ignorar ambiente virtual
+venv/
+.env
+
+# Ignorar banco de dados vetorial
+banco_vetorial_chroma/
+
+# Ignorar caches do Python
+__pycache__/
+*.pyc
